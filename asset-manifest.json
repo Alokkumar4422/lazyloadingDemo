@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lazyloadingDemo/static/css/main.24febecc.chunk.css",
+    "main.js": "/lazyloadingDemo/static/js/main.5039daa0.chunk.js",
+    "main.js.map": "/lazyloadingDemo/static/js/main.5039daa0.chunk.js.map",
+    "runtime~main.js": "/lazyloadingDemo/static/js/runtime~main.a47c24a7.js",
+    "runtime~main.js.map": "/lazyloadingDemo/static/js/runtime~main.a47c24a7.js.map",
+    "static/js/2.0857d62a.chunk.js": "/lazyloadingDemo/static/js/2.0857d62a.chunk.js",
+    "static/js/2.0857d62a.chunk.js.map": "/lazyloadingDemo/static/js/2.0857d62a.chunk.js.map",
+    "index.html": "/lazyloadingDemo/index.html",
+    "precache-manifest.c903d9a4c51ba1143bc734704ddf3b01.js": "/lazyloadingDemo/precache-manifest.c903d9a4c51ba1143bc734704ddf3b01.js",
+    "service-worker.js": "/lazyloadingDemo/service-worker.js",
+    "static/css/main.24febecc.chunk.css.map": "/lazyloadingDemo/static/css/main.24febecc.chunk.css.map"
+  }
+}
